@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  <img src="https://github.com/ryuka.png" /></>
+  <img src="https://github.com/ryuka-md.png" /></>
 
 </p>
 
